@@ -135,3 +135,23 @@ Até 2022, o mercado de Edge Computing global deve alcançar US $ 6,72 bilhões.
 Como em qualquer mercado em crescimento, isso criará demanda de trabalho, principalmente para engenheiros de software.
 
   * **6. Realidade Virtual e Realidade Aumentada**:<br>
+
+A Realidade Virtual (VR) submerge o usuário em um ambiente, enquanto a Realidade Aumentada (AR) aprimora seu ambiente. 
+
+Embora o VR tenha sido usado principalmente para jogos até agora, ele também tem sido usado para treinamento, como o VirtualShip, um software de simulação usado para treinar capitães de navios da Marinha, do Exército e da Guarda Costeira dos EUA. 
+
+O popular Pokemon Go é um exemplo de AR.
+
+Ambos têm um enorme potencial em treinamento, entretenimento, educação, marketing e até reabilitação após uma lesão. 
+
+Qualquer um deles poderia ser usado para treinar médicos para fazer cirurgias, oferecer uma experiência mais profunda aos frequentadores de museus, melhorar os parques temáticos ou até melhorar o marketing, como acontece com o abrigo de ônibus da Pepsi Max.
+
+De acordo com um artigo da Monster.com, a demanda por candidatos a emprego com conhecimento de RV aumentou 37%, mas os empregados em potencial estão em falta. 
+
+Essa demanda só aumentará. 
+
+Existem grandes players no mercado de VR, como Google, Samsung e Oculus, mas muitas startups estão se formando e estarão contratando - ou tentando, à luz da escassez. 
+
+Começar em realidade virtual não requer muito conhecimento especializado. Habilidades básicas de programação e uma mentalidade inovadora podem conseguir um emprego, embora outros empregadores também estejam procurando por ótica como conjunto de habilidades e engenheiros de hardware.
+
+  * **8. Cíber segurança**:<br>
