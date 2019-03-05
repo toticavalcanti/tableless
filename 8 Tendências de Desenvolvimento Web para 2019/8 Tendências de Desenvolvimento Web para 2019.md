@@ -154,4 +154,56 @@ Existem grandes players no mercado de VR, como Google, Samsung e Oculus, mas mui
 
 Começar em realidade virtual não requer muito conhecimento especializado. Habilidades básicas de programação e uma mentalidade inovadora podem conseguir um emprego, embora outros empregadores também estejam procurando por ótica como conjunto de habilidades e engenheiros de hardware.
 
-  * **8. Cíber segurança**:<br>
+  * **7. Cíber segurança**:<br>
+
+A segurança cibernética pode não parecer tecnologia emergente, dado que já existe há algum tempo, mas está evoluindo como outras tecnologias. 
+
+Isso é em parte porque as ameaças são constantemente novas. 
+
+Os malévolos hackers que tentam acessar ilegalmente os dados não vão desistir tão cedo e continuarão a encontrar maneiras de superar até mesmo as mais duras medidas de segurança. 
+
+Também é em parte porque a nova tecnologia está sendo adaptada para aumentar a segurança. 
+
+Três desses avanços são autenticação de hardware, tecnologia de nuvem e aprendizado profundo, de acordo com um especialista. 
+
+Outro especialista adicionou prevenção de perda de dados e análise comportamental à lista. 
+
+Enquanto tivermos hackers, teremos a segurança cibernética como uma tecnologia emergente, porque ela evoluirá constantemente para se defender contra esses hackers.
+
+Como prova da forte necessidade de profissionais de segurança cibernética, o número de empregos de segurança cibernética está crescendo três vezes mais rápido do que outros empregos de tecnologia. 
+
+No entanto, estamos aquém quando se trata de preencher esses trabalhos. Como resultado, prevê-se que teremos 3,5 milhões de empregos de segurança cibernética não preenchidos até 2021.
+
+  * **8.  Internet das Coisas - IOT**:<br>
+
+A Internet das coisas (IoT) é o futuro. Muitas “coisas” agora estão sendo construídas com conectividade Wi-Fi, o que significa que elas podem ser conectadas à Internet - e umas às outras. 
+
+Daí a Internet das Coisas, ou IoT. 
+
+A IoT permite que dispositivos, eletrodomésticos, carros e muito mais se conectem e troquem dados pela Internet. 
+
+E estamos apenas nos estágios iniciais da IoT: o número de dispositivos de IoT alcançou 8,4 bilhões em 2017 e deve atingir 30 bilhões de dispositivos até 2020.
+
+Como consumidores, já estamos usando e beneficiando da IoT. 
+
+Nós podemos trancar nossas portas remotamente se esquecermos de quando saímos para o trabalho e pré-aquecermos nossos fornos a caminho de casa do trabalho, enquanto rastreamos nossa aptidão nos nossos Fitbits e fazemos uma carona com o Lyft. 
+
+Mas as empresas também têm muito a ganhar agora e no futuro próximo. 
+
+A IoT pode permitir uma melhor segurança, eficiência e tomada de decisões para as empresas, à medida que os dados são coletados e analisados. 
+
+Pode permitir a manutenção preditiva, acelerar o atendimento médico, melhorar o atendimento ao cliente e oferecer benefícios que ainda nem imaginamos. 
+
+No entanto, apesar desse benefício no desenvolvimento e na adoção da IoT, especialistas dizem que poucos profissionais de TI estão sendo treinados para trabalhos de IoT. 
+
+Um artigo no ITProToday.com diz que precisaremos de mais 200.000 profissionais de TI que ainda não estão no pipeline e que uma pesquisa com engenheiros descobriu que 25,7% acreditam que os níveis inadequados de habilidade são o maior obstáculo do setor para o crescimento.
+
+Para alguém interessado em uma carreira na IoT, isso significa uma entrada fácil no campo, se você estiver motivado, com várias opções para começar. 
+
+As habilidades necessárias incluem segurança de IoT, conhecimento de computação em nuvem, análise de dados, automação, compreensão de sistemas embarcados, conhecimento de dispositivos, para citar apenas alguns. 
+
+Afinal, é a Internet das Coisas, e essas coisas são muitas e variadas, ou seja, as habilidades necessárias também são.
+
+Embora as tecnologias estejam surgindo e evoluindo ao nosso redor, esses oito domínios oferecem um potencial promissor de carreira agora e no futuro previsível. 
+
+E todos os oito estão sofrendo com a escassez de trabalhadores qualificados, o que significa que é a hora certa para você escolher um, receber treinamento e embarcar nos estágios iniciais da tecnologia, posicionando você para o sucesso agora e no futuro.
