@@ -47,13 +47,26 @@ Arquiteto de Inteligência Artificial é um desses trabalhos. Alguns dizem que e
 
   * **2. Machine Learning**:<br>
 
-Aprendizado de Máquina é um subconjunto da IA. Com Machine Learning, os computadores são programados para aprender a fazer algo que não estão programados para fazer: eles literalmente aprendem descobrindo padrões e insights a partir de dados. Em geral, temos dois tipos de aprendizado, supervisionados e não supervisionados.
+Aprendizado de Máquina é um subconjunto da IA. 
 
-Embora o Aprendizado de Máquina seja um subconjunto da IA, também temos subconjuntos dentro do domínio do Aprendizado de Máquina, incluindo redes neurais, processamento de linguagem natural (NLP) e aprendizado profundo. Cada um desses subconjuntos oferece uma oportunidade para se especializar em um campo de carreira que só vai crescer.
+Com o Machine Learning, os computadores são programados para aprender a fazer algo que não estão programados para fazer: eles literalmente aprendem descobrindo padrões e insights a partir de dados. 
 
-O Machine Learning está sendo implantado rapidamente em todos os tipos de indústrias, criando uma enorme demanda por profissionais qualificados. O mercado de Aprendizado de Máquina deve crescer para US $ 8,81 bilhões até 2022. Os aplicativos de Aprendizado de Máquina são usados ​​para análise de dados, mineração de dados e reconhecimento de padrões. No lado do consumidor, o Aprendizado de Máquina capacita os resultados da pesquisa na Web, anúncios em tempo real e detecção de invasão de rede, para citar apenas algumas das muitas tarefas que ele pode executar.
+Em geral, temos dois tipos de aprendizado, supervisionados e não supervisionados.
 
-Além de completar inúmeras tarefas em nosso nome, está gerando empregos. Os trabalhos de aprendizado de máquina estão entre os principais empregos emergentes no LinkedIn, com quase 2.000 listas de vagas publicadas. E esses empregos pagam bem: em 2017, o salário médio de um engenheiro de aprendizado de máquina era de US $ 106.225. Os trabalhos de Machine Learning incluem engenheiros, desenvolvedores, pesquisadores e cientistas de dados.
+Embora o Aprendizado de Máquina seja um subconjunto da IA, também temos subconjuntos dentro do domínio do Aprendizado de Máquina, incluindo redes neurais, processamento de linguagem natural (NLP) e aprendizado profundo. 
 
-Saiba mais sobre Aprendizado de Máquina.
-Confira este vídeo que fala sobre as 10 principais tendências tecnológicas de 2018 e compare as semelhanças com essa lista ou role a tela para continuar lendo sobre o que está reservado para 2019:
+Cada um desses subconjuntos oferece uma oportunidade para se especializar em um campo de carreira que só vai crescer.
+
+O Machine Learning está sendo implantado rapidamente em todos os tipos de indústrias, criando uma enorme demanda por profissionais qualificados. 
+
+O mercado de Aprendizado de Máquina deve crescer para US $ 8,81 bilhões até 2022. 
+
+Os aplicativos de Aprendizado de Máquina são usados ​​para análise de dados, mineração de dados e reconhecimento de padrões. 
+
+No lado do consumidor, o Aprendizado de Máquina capacita os resultados da pesquisa na Web, anúncios em tempo real e detecção de invasão de rede, para citar apenas algumas das muitas tarefas que ele pode executar.
+
+Além de completar inúmeras tarefas em nosso nome, está gerando muitos empregos. 
+
+Os trabalhos de aprendizado de máquina estão entre os principais empregos emergentes no LinkedIn, com quase 2.000 listas de vagas publicadas. 
+
+
