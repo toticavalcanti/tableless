@@ -69,4 +69,47 @@ Além de completar inúmeras tarefas em nosso nome, está gerando muitos emprego
 
 Os trabalhos de aprendizado de máquina estão entre os principais empregos emergentes no LinkedIn, com quase 2.000 listas de vagas publicadas. 
 
+  * **3. Robótica e Automação de Processos**:<br>
 
+Como a AI e o Machine Learning, a Robótica e Automação de Processos, ou RPA, é outra tecnologia que está automatizando trabalhos. 
+
+O RPA é o uso de software para automatizar processos de negócios, como interpretar aplicativos, processar transações, lidar com dados e até mesmo responder a emails. 
+
+O RPA automatiza tarefas repetitivas que as pessoas costumavam fazer. 
+
+Estas não são apenas as tarefas domésticas de um trabalhador mal remunerado: até 45% das atividades que fazemos podem ser automatizadas, incluindo o trabalho de gerentes financeiros, médicos e CEOs.
+
+Embora a Forrester Research calcule que a automação da RPA irá ameaçar a subsistência de 230 milhões ou mais de trabalhadores do conhecimento ou aproximadamente 9% da força de trabalho global, a RPA também está criando novos empregos enquanto altera os empregos existentes. 
+
+A McKinsey descobriu que menos de 5% das ocupações podem ser totalmente automatizadas, mas cerca de 60% podem ser parcialmente automatizadas.
+
+Para você como profissional de TI olhando para o futuro e tentando entender as tendências tecnológicas, a RPA oferece muitas oportunidades de carreira, incluindo desenvolvedor, gerente de projetos, analista de negócios, arquiteto de soluções e consultor. 
+
+E esses empregos pagam bem. O SimplyHired.com diz que o salário médio da RPA é de US $ 73.861, mas essa é a média compilada dos salários dos desenvolvedores de nível sênior até os arquitetos de soluções seniores, com os 10% mais lucrativos ganhando mais de US $ 141.000 por ano.
+
+
+  * **4. Blockchain**:<br>
+
+Embora a maioria das pessoas pense em tecnologia blockchain em relação a criptomoedas como o Bitcoin, blockchain oferece segurança que é útil de muitas outras maneiras. 
+
+Nos termos mais simples, blockchain pode ser descrito como dados que você só pode adicionar, não remover ou alterar. 
+
+Daí o termo "cadeia" porque você está fazendo uma cadeia de dados. 
+
+Não ser capaz de alterar os blocos anteriores é o que o torna tão seguro. Além disso, as blockchains são orientadas por consenso, de modo que nenhuma entidade pode assumir o controle dos dados. 
+
+Com o blockchain, você não precisa de um terceiro confiável para supervisionar ou validar transações.
+
+Essa maior segurança é a razão pela qual o blockchain é usado para criptomoedas e por que ele pode desempenhar um papel significativo na proteção de informações, como dados médicos pessoais. 
+
+Blockchain pode ser usado para melhorar drasticamente a cadeia de suprimentos global, bem como proteger ativos como arte e imóveis.
+
+E como o uso da tecnologia blockchain aumenta, também aumenta a demanda por profissionais qualificados. 
+
+Nesse sentido, já estamos atrasados. De acordo com o Techcrunch, os jobs relacionados ao blockchain são a segunda categoria de empregos que mais cresce, com 14 vagas para cada desenvolvedor de blockchain. 
+
+O trabalho de um desenvolvedor não é o único disponível no espaço blockchain, no entanto. 
+
+Os empregadores também estão procurando engenheiros de software, consultores e gerentes de projeto.
+
+  * **5. Edge Computing**:<br>
