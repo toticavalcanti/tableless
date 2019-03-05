@@ -113,3 +113,25 @@ O trabalho de um desenvolvedor não é o único disponível no espaço blockchai
 Os empregadores também estão procurando engenheiros de software, consultores e gerentes de projeto.
 
   * **5. Edge Computing**:<br>
+
+Anteriormente uma tendência tecnológica para assistir, a computação em nuvem tornou-se dominante, com os principais players AWS (Amazon Web Services), Microsoft Azure e Google Cloud dominando o mercado. 
+
+A adoção da computação em nuvem ainda está crescendo, à medida que mais e mais empresas migram para uma solução em nuvem. Mas, não é mais a tecnologia emergente.
+
+À medida que a quantidade de dados com que estamos lidando continua aumentando, percebemos as deficiências da computação em nuvem em algumas situações. 
+
+A Edge Computing é projetada para ajudar a resolver alguns desses problemas como uma maneira de contornar a latência causada pela computação em nuvem e obter dados de um data center para processamento. 
+
+A ideia é levar o processamento aos dados, deixar os dados mais perto de onde a computação precisa acontecer. 
+
+Por esse motivo, a computação de borda pode ser usada para processar dados sensíveis ao tempo em locais remotos com conectividade limitada ou sem conectividade com um local centralizado. 
+
+Nessas situações, a computação de borda pode agir como mini datacenters. 
+
+A computação de borda aumentará conforme o uso dos dispositivos da Internet das Coisas (IoT) aumentar. 
+
+Até 2022, o mercado de Edge Computing global deve alcançar US $ 6,72 bilhões.
+
+Como em qualquer mercado em crescimento, isso criará demanda de trabalho, principalmente para engenheiros de software.
+
+  * **6. Realidade Virtual e Realidade Aumentada**:<br>
