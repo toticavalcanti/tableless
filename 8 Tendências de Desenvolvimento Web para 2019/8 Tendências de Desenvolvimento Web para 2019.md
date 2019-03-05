@@ -35,4 +35,4 @@ A IA existe desde 1956 e já é amplamente usada. Na verdade, as pessoas em gera
 
 A IA é uma parte do que nos referimos de forma ampla como automação, e a automação é um tema quente por causa da potencial perda de emprego. Especialistas dizem que a automação vai eliminar mais 73 milhões de empregos até 2030. No entanto, a automação está criando empregos e eliminando-os, especialmente no campo da inteligência artificial: os especialistas prevêem que os empregos na AI chegarão a 23 milhões até 2020, programação, testes, suporte e manutenção, para citar alguns. Arquiteto de Inteligência Artificial é um desses trabalhos. Alguns dizem que em breve será um rival dos cientista de dados na necessidade de profissionais qualificados na área.
 
-* **2. Machine Learning **:<br>
+  * **2. Machine Learning**:<br>
