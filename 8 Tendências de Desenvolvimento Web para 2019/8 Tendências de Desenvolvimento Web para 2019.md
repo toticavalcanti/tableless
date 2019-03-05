@@ -2,15 +2,15 @@
 title: 8 Tendências de Desenvolvimento para 2019
 authors: Toti Cavalcanti
 type: post
-image: uploads/2017/03/pexels-photo-296983-2.jpg
-date: 2017-03-20
+image: 
+date: 2019-03-04
 excerpt: 8 Principais tendências tecnológicas para 2019 e os empregos que eles criarão
 categories:
   - Carreira
   - Opinião
 tags:
   - Mercado
-  - front-end
+  - Tendências
 ---
 
 A tecnologia está evoluindo a um ritmo tão rápido que as previsões anuais de tendências podem parecer desatualizadas antes mesmo de serem publicadas como um post ou artigo de blog. À medida que a tecnologia evolui, ela permite mudanças e progressos ainda mais rápidos, causando a aceleração da taxa de mudança, até que, no futuro, ela se tornará exponencial.
