@@ -6,7 +6,7 @@ image:
 date: 2019-03-04
 excerpt: 8 Principais tendências tecnológicas para 2019 e os empregos que eles criarão
 categories:
-  - Carreira
+  - Notícias
   - Opinião
 tags:
   - Mercado
@@ -31,8 +31,8 @@ Além disso, outras ramificações da IA foram desenvolvidas, incluindo o aprend
 
 AI refere-se a sistemas de computadores construídos para imitar a inteligência humana e executar tarefas como reconhecimento de imagens, fala ou padrões e tomada de decisão. A IA pode realizar essas tarefas mais rapidamente e com mais precisão que os humanos.
 
-A IA existe desde 1956 e já é amplamente usada. Na verdade, cinco entre seis norte-americanos usam serviços de IA de uma forma ou de outra todos os dias, incluindo aplicativos de navegação, serviços de streaming, assistentes pessoais de smartphone, aplicativos de compartilhamento de viagens, assistentes pessoais domésticos e dispositivos domésticos inteligentes. Além do uso do consumidor, a IA é usada para programar trens, avaliar riscos de negócios, prever a manutenção e melhorar a eficiência energética, entre muitas outras tarefas que poupam dinheiro.
+A IA existe desde 1956 e já é amplamente usada. Na verdade, as pessoas em geral usam serviços de IA de uma forma ou de outra todos os dias, incluindo aplicativos de navegação, serviços de streaming, assistentes pessoais de smartphone, aplicativos de compartilhamento de viagens, assistentes pessoais domésticos e dispositivos domésticos inteligentes. Além do uso do consumidor, a IA é usada para agendar horários dos trens, avaliar riscos de negócios, prever a manutenção e melhorar a eficiência energética, entre muitas outras tarefas que poupam dinheiro.
 
-A IA é uma parte do que nos referimos de forma ampla como automação, e a automação é um tema quente por causa da potencial perda de emprego. Especialistas dizem que a automação vai eliminar mais 73 milhões de empregos até 2030. No entanto, a automação está criando empregos e eliminando-os, especialmente no campo da inteligência artificial: os especialistas prevêem que os empregos na AI chegarão a 23 milhões até 2020. , programação, testes, suporte e manutenção, para citar alguns. Arquiteto de Inteligência Artificial é um desses trabalhos. Alguns dizem que em breve será um rival cientista de dados na necessidade de profissionais qualificados.
+A IA é uma parte do que nos referimos de forma ampla como automação, e a automação é um tema quente por causa da potencial perda de emprego. Especialistas dizem que a automação vai eliminar mais 73 milhões de empregos até 2030. No entanto, a automação está criando empregos e eliminando-os, especialmente no campo da inteligência artificial: os especialistas prevêem que os empregos na AI chegarão a 23 milhões até 2020, programação, testes, suporte e manutenção, para citar alguns. Arquiteto de Inteligência Artificial é um desses trabalhos. Alguns dizem que em breve será um rival dos cientista de dados na necessidade de profissionais qualificados na área.
 
-Para saber mais sobre possíveis empregos em IA, leia sobre como construir uma carreira em IA ou por que você deve obter uma certificação em IA.
+* **2. Machine Learning **:<br>
